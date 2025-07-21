@@ -16,8 +16,8 @@
 - 🧠 Exploring the intersection of **AI + Web Development**
 - 💼 Building **Versify** – an AI-powered social blogging platform  
 - 🎨 I love blending code & creativity — sometimes frontend, sometimes backend, sometimes AI 🦄 
-- 👩‍💻 All of my projects are available at [https://github.com/ipsita5-dut]
-- 📫 How to reach me: **duttaipsita694@gmail.com**
+- 👩‍💻 All of my projects are available at [https://github.com/Amlan84]
+- 📫 How to reach me: **amlandas12701@gmail.com**
 
 ---
 
@@ -44,7 +44,6 @@
 |--------|------|-------------|
 | 📝 **Versify APP** | Next.js, MongoDB, AI | Social blogging platform with smart features like AI Ghostwriter & Grammar Fixer |
 | ✨ **GoID** | Nodejs, MongoDB, EJS | Intra Corporate Carpooling Website for corporate employees with seamless journey & route tracking fecility |
-| 🤖 **Mental Healthcare Chatbot** | FastAPI, LLMs, Nextjs | Bot that interacts exactly as a human and based on mood suggests movie, songs, article etc |
 
 ---
 

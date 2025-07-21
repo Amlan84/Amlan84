@@ -50,7 +50,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ipsita5-dut&theme=gruvbox&no-frame=true&column=6&margin-w=10&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Amlan84&theme=gruvbox&no-frame=true&column=6&margin-w=10&margin-h=15" />
 </p>
 
 ---

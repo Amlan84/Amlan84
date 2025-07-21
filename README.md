@@ -23,7 +23,7 @@
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,python,fastapi,tailwind,vercel,git,vscode,html,css" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,python,tailwind,git,vscode,html,css" />
 </p>
 
 ---
@@ -31,8 +31,8 @@
 ### 📊 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ipsita5-dut&show_icons=true&theme=gruvbox&hide_border=true&icon_color=ffc0cb" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipsita5-dut&layout=compact&theme=gruvbox&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Amlan84&show_icons=true&theme=gruvbox&hide_border=true&icon_color=ffc0cb" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amlan84&layout=compact&theme=gruvbox&hide_border=true" />
 </p>
 
 ---

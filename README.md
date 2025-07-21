@@ -58,9 +58,9 @@
 ### 🌐 Let's Connect
 
 <p align="center">
-  <a href="mailto:duttaipsita694@gmail.com"><img src="https://img.shields.io/badge/Email-dd3f4f?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/ipsitadutta2026"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ipsita5-dut"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:amlandas12702@gmail.com"><img src="https://img.shields.io/badge/Email-dd3f4f?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/amlan-das-b7b6aa261"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Amlan84"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---

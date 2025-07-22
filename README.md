@@ -11,12 +11,12 @@
 
 ---
 
-### 👩‍💻 About Me
+### 👨‍💻 About Me
 - 🎯 Focused on building **intelligent web apps** that are fast, elegant & human-friendly  
 - 🧠 Exploring the intersection of **AI + Web Development**
 - 💼 Building **Versify** – an AI-powered social blogging platform  
 - 🎨 I love blending code & creativity — sometimes frontend, sometimes backend, sometimes AI 🦄 
-- 👩‍💻 All of my projects are available at [https://github.com/Amlan84]
+- 👨‍💻 All of my projects are available at [https://github.com/Amlan84]
 - 📫 How to reach me: **amlandas12701@gmail.com**
 
 ---
